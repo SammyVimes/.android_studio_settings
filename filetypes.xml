@@ -5,6 +5,7 @@
       <mapping pattern=".travis.yml" type="AndroidDataBinding" />
       <mapping ext="as" type="AspectJ" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="pom" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
