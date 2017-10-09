@@ -8,7 +8,6 @@
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="pom" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
