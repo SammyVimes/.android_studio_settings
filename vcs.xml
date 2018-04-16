@@ -30,6 +30,10 @@
           <option name="url" value="http://git.cc.naumen.ru" />
           <option name="userName" value="sdanilov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.cc.naumen.ru" />
+          <option name="userName" value="sdanilov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/media/semyon/ssdisk/development" />
