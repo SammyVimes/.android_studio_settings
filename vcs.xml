@@ -50,6 +50,10 @@
           <option name="url" value="https://SammyVimes@bitbucket.org/SammyVimes/minotaur.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SammyVimes/manga.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/media/semyon/ssdisk/development" />
